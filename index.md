@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "Hello World! From Alice"
+  name: "Hello World! From Alice and From Bob"
   text: "Training Page for Cloud Computing Course"
   tagline: My great project tagline
   actions:
